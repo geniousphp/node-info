@@ -4,7 +4,7 @@
 
    <groupId>pl.goldmann.work</groupId>
    <artifactId>node-info</artifactId>
-   <version>1.0.0</version>
+   <version>1.0</version>
    <packaging>war</packaging>
    <name>Simple node information</name>
    <description>Application to display the JBoss AS node configuration</description>
